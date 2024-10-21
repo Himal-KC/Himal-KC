@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himal KC</h1>
-<h3 align="center">A passionate Full Stack developer from Nepal. Currently Live in Sydney, Australia.</h3>
+<h3 align="center">Fresher in full stack development with a passion for building web applications. Eager to bring my skills to the industry and grow in a collaborative environment. Always learning and ready for new challenges. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himal-kc&label=Profile%20views&color=0e75b6&style=flat" alt="himal-kc" /> </p>
 
